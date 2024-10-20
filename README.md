@@ -2,4 +2,3 @@
 ## Authors
 ### Joana Wang - 60225
 ### Renato Viola - 60665
-### Rúben Silva - 62946
